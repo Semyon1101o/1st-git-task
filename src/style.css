@@ -1,0 +1,179 @@
+.logo {
+  width: 50px;
+  height: 50px;
+  margin-left: 890px;
+  position: relative;
+}
+
+body {
+background: linear-gradient(
+  45deg,
+  rgb(11,1,54) 60%,
+  rgb(144,1,29) 100%
+);
+}
+
+.header {
+  text-align: center;
+  color: violet;
+}
+
+div h1 {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+header h4 {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 27px;
+  width: 300px;
+  margin: 0 auto;
+}
+
+hr {
+  width: 2px;
+}
+
+header {
+  border-bottom-style: dashed;
+  border-width: 2px;
+  border-color: crimson;
+}
+
+h1 {
+  color: violet;  
+  margin-top: 15px;
+}
+
+.hobby {
+  color: violet;
+  text-align: center;
+}
+
+.hobby:hover {
+  border: 1px solid lightsalmon;
+  border-radius: 24px;
+}
+
+video {
+  margin-left: 20px;
+  height: 50px;
+  width: 50px;
+  transition: 4s;
+}
+
+video:hover {
+  height: 500px;
+  width: 400px;
+  margin-left: 700px;
+}
+
+.video-author {
+  color: rgb(165, 161, 161);
+  padding-left: 20px;
+}
+
+.header:hover {
+  border: 1px solid lightsalmon;
+  border-radius: 24px;
+}
+
+.first-text {
+  font-size: 23px;
+  color: rgb(103, 76, 201);
+  margin-top: 20px;
+  line-height: 1.5;
+  width: 900px;
+  height: 900px;
+  margin: 0 auto;
+  padding: 15px 10px;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: oblique;
+  padding-top: 0;
+}
+
+.first-text:hover {
+  border: 1px solid lightsalmon;
+  border-radius: 24px;
+}
+
+.second-text {
+  font-size: 23px;
+  color: rgb(103, 76, 201);
+  line-height: 1.5;
+  width: 900px;
+  height: 900px;
+  margin: 0 auto;
+  padding: 15px 10px;
+  font-style: oblique;
+  font-family: 'Courier New', Courier, monospace;
+  position: relative;
+}
+
+.second-text:hover {
+  border: 1px solid lightsalmon;
+  border-radius: 24px;
+}
+
+footer {
+  width: 98vw;
+  height: 200px;
+  border-radius: 24px;
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+footer h4 {
+  color: rgb(185, 39, 51);
+  font-family: cursive;
+  font-size: 30px;
+  padding-left: 10px;
+}
+
+.contacts {
+  color: blueviolet;
+  padding-left: 10px;
+}
+
+.first-block {
+  height: 180px;
+  width: 300px;
+  border: 1px solid grey;
+  border-radius: 24px;
+  margin-top: 10px;
+  margin-left: 60px;
+  background: linear-gradient(
+    45deg,
+    #253b58, #3b0a68 70%
+  );
+}
+
+.violin {
+  height: 70vh;
+  width: 93vh;
+  border: 1px solid purple;
+  border-radius: 10px;
+}
+
+.table-tennis {
+  height: 69vh;
+  width: 93vh;
+  border: 1px solid purple;
+  border-radius: 10px;
+}
+
+span {
+  color: violet;
+  padding-left: 290px;
+  font-style: oblique;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+}
